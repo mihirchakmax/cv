@@ -2,10 +2,11 @@
 ## I am Mihir Chakma.
 
 - 🔭 I’m an undergraduate in Bachelor of Applied Information Technology.
-- 🌱 I’m currently learning V Programming.
+- 🌱 I’m currently learning Python and V Programming.
+- 🤔 I’m on Mastodon <a rel="me" href="https://mastodon.social/@sakma">Sakma</a>
 - 📫 How to reach me: mihirsakma@gmail.com
 - 😄 Pronouns: He/Him
-- 🤔 I’m on Mastodon <a rel="me" href="https://mastodon.social/@sakma">Sakma</a>
+
 
 <!--
 **mihirsakma/mihirsakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
