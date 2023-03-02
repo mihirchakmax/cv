@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning V Programming.
 - 📫 How to reach me: mihirsakma@gmail.com
 - 😄 Pronouns: He/Him
-- 🤔 I’m on Mastodon <a rel="me" href="https://mastodon.social/@sakma">Mastodon</a>
+- 🤔 I’m on Mastodon <a rel="me" href="https://mastodon.social/@sakma">Sakma</a>
 
 <!--
 **mihirsakma/mihirsakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
