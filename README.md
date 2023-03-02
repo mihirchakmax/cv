@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello 👋
+## I am Mihir Chakma.
+
+- 🔭 I’m an undergraduate in Bachelor of Applied Information Technology.
+- 🌱 I’m currently learning V Programming.
+- 📫 How to reach me: mihirsakma@gmail.com
+- 😄 Pronouns: He/Him
 
 <!--
 **mihirsakma/mihirsakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
